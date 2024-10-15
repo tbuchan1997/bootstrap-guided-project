@@ -67,6 +67,13 @@ h2 {
     padding: 5% 7%;
 }
 
+/*Buttons*/
+
+.button-color {
+    background-color: #1d6d8a;
+    border-color: #184f63;
+}
+
 /* Media queries */
 
 /* Use Bootstrap breakpoint for XL screens */
